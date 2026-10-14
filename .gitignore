@@ -1,0 +1,11 @@
+# Cópias de segurança e arquivos temporários
+*.bak
+*.tmp
+~$*
+
+# Estado local do Power BI
+.pbi/
+
+# Arquivos do Windows
+Thumbs.db
+Desktop.ini
